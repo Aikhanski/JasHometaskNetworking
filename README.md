@@ -7,3 +7,4 @@ stack of technology which was used in this app:
 3) Native Network Manager to fetch the data from API
 4) Decoding of Data into Model
 5) NetworkManager Delegate or completionHandler to bring data to ViewController
+6) GCD to return data to main thread to update UI, from background thread
